@@ -1,4 +1,4 @@
-# Predict-Default
+# Predict Default
 Predict the default of a credit card using python in Jupyter Notebook.
 
 The training data set includes a binary variable, default payment (Yes = 1, No = 0), as the target variable, and the following 23 variables as the features variables:
